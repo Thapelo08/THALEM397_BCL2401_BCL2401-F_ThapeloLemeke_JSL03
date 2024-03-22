@@ -8,7 +8,7 @@ function cookSteak(steakWeight, desiredDoneness) {
       { action: 'Season steak', seasoning },
       { action: 'Cook steak until desired doneness', desiredDoneness },
       { action: 'Serve steak' }
-    ];
+    ]
   
     // Execute the cooking process
     for (const step of cookingProcess) {
@@ -33,3 +33,4 @@ function cookSteak(steakWeight, desiredDoneness) {
   
   cookSteak(16, 63); // Cook a 16 oz steak to medium-rare (63°C)
   
+  Imperative

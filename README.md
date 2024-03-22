@@ -1,1 +1,12 @@
 # THALEM397_BCL2401_BCL2401-F_ThapeloLemeke_JSL03
+
+
+
+# LOOM VIDEO FOR EXAMPLE 1
+
+-https://www.loom.com/share/78c26be001ab436cb5a944f03fb44723?sid=8d5b5052-b379-4cfb-aea2-0ec149843747
+
+
+# LOOM VIDEO FOR EXAMPLE 2
+
+-
